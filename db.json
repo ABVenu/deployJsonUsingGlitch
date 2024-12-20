@@ -1,4 +1,28 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    }
+  ],
+  "products":[
+    {
+      "id":1,
+      "name":"mobile",
+      "price":12000
+    },
+    {
+      "id":2,
+      "name":"watch",
+      "price":15000
+    }
+  ],
   "posts": [
     {
       "id": "1",
